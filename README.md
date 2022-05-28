@@ -1,1 +1,1 @@
-# curso-dio-estruturas-de-repeticao-e-arrays-java-intellij
+# Curso DIO: Estruturas de Repetição e Arrays em Java - IntelliJ
